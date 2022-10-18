@@ -9,6 +9,10 @@ import javax.swing.JLabel;
 import java.awt.Font;
 import javax.swing.SwingConstants;
 
+/*
+ * Written by Jason Parkin 2022
+ */
+
 public class BTC extends JFrame {
 
 	private JPanel contentPane;
